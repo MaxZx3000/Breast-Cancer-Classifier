@@ -1,7 +1,7 @@
 # Breast-Cancer-Classifier
 A project that predicts 2 types of cancer: malignant or benign.
 
-Dataset yang digunakan: https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wdbc.data
+Dataset URL: https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wdbc.data
 
 There are 2 files in this project:
 - The first one (finalproject_Anthony Kevin Oktavius): Feature selection first, then feature extraction (PCA).
